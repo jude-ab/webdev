@@ -1,14 +1,12 @@
 # webdev
-3rd year web dev assignment 
+###3rd year web dev assignment 
 
-
-##download and unarchive zipped folder
 
 ## install node packages 
 
 ##cd into server directory 
 
-### and then run 'npm run start' for frontend and backend 
+## and then run 'npm run start' for frontend and backend 
 
 Runs the application in development mode and will open http://localhost:3000 in your browser. 
 
