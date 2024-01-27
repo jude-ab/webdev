@@ -1,4 +1,4 @@
-##3rd year web dev assignment 
+## web development project 
 
 
 ## install node packages 
